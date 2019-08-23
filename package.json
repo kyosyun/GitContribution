@@ -1,0 +1,18 @@
+{
+  "name": "gitcontribution",
+  "version": "1.0.0",
+  "description": "git contributionの取得",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kyosyun"
+  },
+  "author": "kyo_s",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.3.4"
+  }
+}
